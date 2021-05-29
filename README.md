@@ -1,10 +1,10 @@
 ###  :wave: Hello world :globe_with_meridians:
 
-I'm Fernando Villon, a Digital Designer specialized in :zap: UI Design :zap: that seeks to connect people with technology, offering friendly and intuitive digital products that allow them to meet their goals while providing memorable experiences.:rocket:
+I'm Fernando Villón, a Digital Designer specialized in :zap: UI Design :zap: that seeks to connect people with technology, offering friendly and intuitive digital products that allow them to meet their goals while providing memorable experiences.:rocket:
 
 - 🔭 I’m currently working on Web design
 - 🌱 I’m currently learning mobile app development
-- 💬 Ask me about prototyping, interactions, Information Architecture
+- 💬 Ask me about prototyping, interactions, information architecture
 
 💼 www.linkedin.com/in/fvillonr
 
